@@ -1,2 +1,2 @@
-# Git_course
-for web course
+## Git_course
+# For web course
